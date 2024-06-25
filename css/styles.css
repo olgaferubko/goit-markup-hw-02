@@ -1,0 +1,162 @@
+body {
+   font-family: "Roboto", sans-serif;
+   color: #2E2F42;
+   background-color: white; 
+}
+
+ul {
+    list-style-type: none;
+}
+
+.web-logo {
+    color: #4D5AE5;
+    font-weight: 700;
+    font-size: 18;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.logo {
+    color: #2E2F42;
+    font-weight: 700;
+    font-size: 18;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.page-nav .link {
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    line-height: 1.5;
+    color: #2E2F42;
+}
+
+.page-nav .link:active {
+    color: #404BBF;
+}
+
+.page-nav .link:hover,
+.page-nav .link:focus {
+    color: #404BBF;
+    text-decoration: underline;
+}
+
+.page-address .link {
+    font-size: 16px;
+    text-decoration: none;
+    color: #434455;
+    line-height: 1.5;
+}
+
+.page-address .link:hover,
+.page-address .link:focus {
+    color: #404BBF;
+    text-decoration: underline;
+}
+
+.block {
+    background-color: #2E2F42;
+}
+
+.page-title {
+    color: white;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    text-align: center;
+}
+
+.button-item {
+    cursor: pointer;
+    background-color: #4D5AE5;
+    color: white;
+}
+
+.button-item:hover,
+.button-item:focus {
+    background-color: #404BBF;
+    color: white;
+}
+
+
+.points .item-name {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    text-align: left;
+}
+
+.points .point-text {
+    font-size: 16px;
+    line-height: 1.5;
+    justify-content: left;
+    color: #434455;
+}
+
+.background-team {
+    background-color: #F4F4FD;
+
+}
+
+.team-title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.1;
+    text-align: center;
+}
+
+.background-card {
+    background-color: white;
+}
+
+.background-card .member-team {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #2E2F42;
+}
+
+.background-card .job {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+
+.portfolio-title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.1;
+    text-align: center;
+}
+
+.background-port {
+    background-color: #E7E9FC;
+}
+
+.work-name {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.type {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+
+footer {
+    background-color: #2E2F42;
+}
+
+.logo-low {
+    color: #F4F4FD;
+}
+
+.motto {
+    color: #F4F4FD;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
