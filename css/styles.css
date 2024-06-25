@@ -1,6 +1,6 @@
 body {
    font-family: "Roboto", sans-serif;
-   color: #2E2F42;
+   color: #434455;
    background-color: white; 
 }
 
@@ -9,19 +9,25 @@ ul {
 }
 
 .web-logo {
+    font-family: "Raleway", sans-serif;
     color: #4D5AE5;
     font-weight: 700;
-    font-size: 18;
+    font-size: 18px;
     text-transform: uppercase;
     text-decoration: none;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
 }
 
 .logo {
+    font-family: "Raleway", sans-serif;
     color: #2E2F42;
     font-weight: 700;
-    font-size: 18;
+    font-size: 18px;
     text-transform: uppercase;
     text-decoration: none;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
 }
 
 .page-nav .link {
@@ -30,6 +36,7 @@ ul {
     text-decoration: none;
     line-height: 1.5;
     color: #2E2F42;
+    letter-spacing: 0.02em;
 }
 
 .page-nav .link:active {
@@ -42,11 +49,16 @@ ul {
     text-decoration: underline;
 }
 
+.info {
+    font-style: normal;
+}
+
 .page-address .link {
     font-size: 16px;
     text-decoration: none;
     color: #434455;
     line-height: 1.5;
+    letter-spacing: 0.02em:
 }
 
 .page-address .link:hover,
@@ -65,12 +77,16 @@ ul {
     font-weight: 700;
     line-height: 1.07;
     text-align: center;
+    letter-spacing: 0.02em;
 }
 
 .button-item {
     cursor: pointer;
     background-color: #4D5AE5;
     color: white;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
 }
 
 .button-item:hover,
@@ -85,13 +101,14 @@ ul {
     font-weight: 500;
     line-height: 1.2;
     text-align: left;
+    letter-spacing: 0.02em;
 }
 
 .points .point-text {
     font-size: 16px;
     line-height: 1.5;
-    justify-content: left;
     color: #434455;
+    letter-spacing: 0.02em;
 }
 
 .background-team {
@@ -102,8 +119,10 @@ ul {
 .team-title {
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.1;
+    line-height: 1.11;
     text-align: center;
+    letter-spacing: 0.02em;
+    letter-spacing: 0.02em;
 }
 
 .background-card {
@@ -115,19 +134,23 @@ ul {
     font-weight: 500;
     line-height: 1.2;
     color: #2E2F42;
+    letter-spacing: 0.02em;
 }
 
 .background-card .job {
     font-size: 16px;
     line-height: 1.5;
     color: #434455;
+    letter-spacing: 0.02em;
 }
 
 .portfolio-title {
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.1;
+    line-height: 1.11;
     text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
 
 .background-port {
@@ -138,25 +161,32 @@ ul {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .type {
     font-size: 16px;
     line-height: 1.5;
     color: #434455;
+    letter-spacing: 0.02em;
 }
 
-footer {
+.color-footer {
     background-color: #2E2F42;
 }
 
 .logo-low {
     color: #F4F4FD;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
 }
 
 .motto {
     color: #F4F4FD;
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
